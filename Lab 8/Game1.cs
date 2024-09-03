@@ -8,6 +8,7 @@ namespace Lab_8
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        //change 1
 
         public Game1()
         {
